@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.5" height="26.5" viewBox="0 0 26.5 26.5">
+  <g id="gym" transform="translate(-1.25 -1.25)">
+    <rect id="Rectangle_916" data-name="Rectangle 916" width="3" height="9" rx="1.5" transform="translate(8 27) rotate(180)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_3940" data-name="Path 3940" d="M0,0H1.667A.833.833,0,0,1,2.5.833V6.667a.833.833,0,0,1-.833.833H0Z" transform="translate(4.5 26.167) rotate(180)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5"/>
+    <rect id="Rectangle_917" data-name="Rectangle 917" width="3" height="9" rx="1.5" transform="translate(21 18)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_3941" data-name="Path 3941" d="M56,42h1.667a.833.833,0,0,1,.833.833v5.833a.833.833,0,0,1-.833.833H56Z" transform="translate(-31.5 -23.333)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5"/>
+    <rect id="Rectangle_918" data-name="Rectangle 918" width="13" height="3" transform="translate(8 21)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5"/>
+    <rect id="Rectangle_919" data-name="Rectangle 919" width="5" height="9" rx="2" transform="translate(11 17) rotate(180)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_3942" data-name="Path 3942" d="M0,0H1.667A.833.833,0,0,1,2.5.833V5a.833.833,0,0,1-.833.833H0Z" transform="translate(6.583 15.333) rotate(180)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5"/>
+    <rect id="Rectangle_920" data-name="Rectangle 920" width="4" height="9" rx="2" transform="translate(19 8)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_3943" data-name="Path 3943" d="M52,20h1.667a.833.833,0,0,1,.833.833V25a.833.833,0,0,1-.833.833H52Z" transform="translate(-29.167 -10.5)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5"/>
+    <rect id="Rectangle_921" data-name="Rectangle 921" width="8" height="2" transform="translate(11 11)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_3944" data-name="Path 3944" d="M21.083,7.417,19,5.333h2.917l-1.25-2.5,2.917,1.25L24.417,2l1.25,2.083,2.083-1.25-.833,2.5h2.917L27.75,7.417" transform="translate(-9.917)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.383" height="25.235" viewBox="0 0 26.383 25.235">
+  <g id="inverter_home" transform="translate(-1.43 -1.78)">
+    <path id="Path_3928" data-name="Path 3928" d="M12,20.736V24.48h3.744a8.736,8.736,0,0,0,8.736-8.736V12H20.736A8.736,8.736,0,0,0,12,20.736Z" transform="translate(2.622 2.535)" fill="#fff"/>
+    <path id="Path_3929" data-name="Path 3929" d="M7.133,10.067l7.488-5.242,7.488,5.242v3.22h2.5V11.814l1.785,1.248,1.423-2.047L14.622,1.78,1.43,11.015l1.423,2.047,1.785-1.248v15.2h8.736v-2.5H7.133Z" fill="#fff"/>
+    <rect id="Rectangle_914" data-name="Rectangle 914" width="4.992" height="2.496" transform="translate(12.126 9.543)" fill="#fff"/>
+  </g>
+</svg>

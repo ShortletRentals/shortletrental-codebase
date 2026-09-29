@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.065" height="25" viewBox="0 0 19.065 25">
+  <g id="electricity" transform="translate(-6 -3)">
+    <path id="Path_3925" data-name="Path 3925" d="M16.541,21.206H6.958A.958.958,0,0,1,6,20.248V3.958A.958.958,0,0,1,6.958,3h9.582a.958.958,0,0,1,.958.958v16.29A.958.958,0,0,1,16.541,21.206ZM7.916,19.29h7.666V4.916H7.916Z" transform="translate(0 0)" fill="#fff"/>
+    <path id="Path_3926" data-name="Path 3926" d="M12.875,7,10,12.749h1.916l-.958,4.791,2.875-5.749H11.916Z" transform="translate(-0.151 -0.144)" fill="#fff"/>
+    <rect id="Rectangle_913" data-name="Rectangle 913" width="4" height="4" transform="translate(21.065 9.025)" fill="#fff"/>
+    <path id="Path_3927" data-name="Path 3927" d="M18.749,28.29A5.749,5.749,0,0,1,13,22.541V20.624a.958.958,0,1,1,1.916,0v1.916a3.833,3.833,0,1,0,7.666,0V12.958a.958.958,0,1,1,1.916,0v9.582A5.749,5.749,0,0,1,18.749,28.29Z" transform="translate(-0.227 -0.29)" fill="#fff"/>
+  </g>
+</svg>

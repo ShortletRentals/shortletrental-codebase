@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="cross_icon" transform="translate(-1080 -279)">
+    <circle id="Ellipse_171" data-name="Ellipse 171" cx="11" cy="11" r="11" transform="translate(1080 279)" fill="#f1592a"/>
+    <g id="_icons" transform="translate(1081 280)">
+      <path id="Path_3911" data-name="Path 3911" d="M5.2,14.247a.652.652,0,0,0,.945,0L9.725,10.67,13.3,14.247a.652.652,0,0,0,.945,0,.652.652,0,0,0,0-.945L10.67,9.725l3.577-3.577A.668.668,0,1,0,13.3,5.2L9.725,8.78,6.147,5.2a.668.668,0,0,0-.945.945L8.78,9.725,5.2,13.3A.652.652,0,0,0,5.2,14.247Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

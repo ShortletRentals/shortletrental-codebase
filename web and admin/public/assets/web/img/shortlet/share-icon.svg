@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.783" height="17.783" viewBox="0 0 17.783 17.783">
+  <g id="share-icon" transform="translate(-8 -8)">
+    <g id="Icon-External-Link" transform="translate(8 8)">
+      <path id="Fill-118" d="M-353.748-361.027l-.852-.852,9.558-9.521.815.815-9.521,9.558" transform="translate(361.787 371.622)" fill="#2d2d2d"/>
+      <path id="Fill-119" d="M-336.765-365.665h-1.26v-5.076H-343.1V-372h6.335v6.335" transform="translate(354.548 372)" fill="#2d2d2d"/>
+      <path id="Fill-120" d="M-359.4-352.014h-12.707A1.9,1.9,0,0,1-374-353.9v-12.707a1.9,1.9,0,0,1,1.889-1.889h7v1.26h-7a.649.649,0,0,0-.63.63V-353.9a.649.649,0,0,0,.63.63H-359.4a.649.649,0,0,0,.63-.63v-7h1.26v7a1.851,1.851,0,0,1-1.889,1.889" transform="translate(374 369.797)" fill="#2d2d2d"/>
+    </g>
+  </g>
+</svg>

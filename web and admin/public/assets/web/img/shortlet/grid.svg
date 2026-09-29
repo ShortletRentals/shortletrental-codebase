@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="grid" transform="translate(-1470 -225)">
+    <g id="Group_106" data-name="Group 106" transform="translate(734 -221)">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="12" cy="12" r="12" transform="translate(736 446)" fill="#f1592a"/>
+    </g>
+    <g id="Page-1" transform="translate(1476.543 232)">
+      <g id="Core">
+        <g id="apps">
+          <path id="Shape" d="M0,2.578H2.578V0H0V2.578Zm3.867,7.735H6.446V7.735H3.867v2.578ZM0,10.313H2.578V7.735H0v2.578ZM0,6.446H2.578V3.867H0V6.446Zm3.867,0H6.446V3.867H3.867V6.446ZM7.735,0V2.578h2.578V0ZM3.867,2.578H6.446V0H3.867V2.578ZM7.735,6.446h2.578V3.867H7.735V6.446Zm0,3.867h2.578V7.735H7.735v2.578Z" fill="#fff" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

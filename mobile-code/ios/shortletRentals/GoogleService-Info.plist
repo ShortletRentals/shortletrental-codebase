@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>757363952769-25bk8c9vk5pcgv9p375i1hn5lnhu846h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.757363952769-25bk8c9vk5pcgv9p375i1hn5lnhu846h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>757363952769-7h7tqs4utqr3qm0j8s9r6li7b32cr5hl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAtxlDJ-VQ3UzNqgmVoCKDnL3rRkxdaF7k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>757363952769</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shortletrentals</string>
+	<key>PROJECT_ID</key>
+	<string>shortlet-1a5f6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shortlet-1a5f6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:757363952769:ios:ba561fd5a86ca11c751180</string>
+	<key>DATABASE_URL</key>
+	<string>https://shortlet-1a5f6-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

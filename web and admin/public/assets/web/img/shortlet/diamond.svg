@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.608" height="17.533" viewBox="0 0 19.608 17.533">
+  <g id="diamond" transform="translate(-14.006 -18.884)">
+    <path id="Path_48" data-name="Path 48" d="M33.222,25.023H14.4a.392.392,0,0,1-.3-.645l4.515-5.355a.392.392,0,0,1,.3-.139h9.8a.392.392,0,0,1,.3.139l4.514,5.355a.392.392,0,0,1-.3.645Zm-17.981-.784H32.379l-3.853-4.57H19.095Z" fill="#fff"/>
+    <path id="Path_49" data-name="Path 49" d="M24.187,58.943,14.475,47.409l.6-.505,9.112,10.821L33.3,46.9l.6.505Z" transform="translate(-0.377 -22.526)" fill="#fff"/>
+    <path id="Path_50" data-name="Path 50" d="M46.242,36.237h0a.392.392,0,0,1-.37-.262L41.931,24.8a.392.392,0,0,1,.054-.363l3.941-5.355a.406.406,0,0,1,.632,0L50.5,24.435a.391.391,0,0,1,.054.363L46.611,35.975A.392.392,0,0,1,46.242,36.237Zm-3.5-11.5,3.5,9.933,3.5-9.933-3.5-4.758Z" transform="translate(-22.432 -0.037)" fill="#fff"/>
+    <rect id="Rectangle_31" data-name="Rectangle 31" width="5.439" height="0.784" transform="translate(19.298 19.207) rotate(79.869)" fill="#fff"/>
+    <rect id="Rectangle_32" data-name="Rectangle 32" width="0.784" height="5.44" transform="translate(28.323 19.207) rotate(10.137)" fill="#fff"/>
+  </g>
+</svg>

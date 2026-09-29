@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "757363952769",
+    "project_id": "shortlet-1a5f6",
+    "storage_bucket": "shortlet-1a5f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757363952769:android:dc2592ce739236c6751180",
+        "android_client_info": {
+          "package_name": "com.shortletrentals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757363952769-7h7tqs4utqr3qm0j8s9r6li7b32cr5hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shortletrentals",
+            "certificate_hash": "d0173c3f356ed90d8b02b59a2ce93a3720475f9b"
+          }
+        },
+        {
+          "client_id": "757363952769-40feobre1fhcqf4ovg18s1nu9sd93iuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMCFZuq6tfiVPHTWDShyhSovLIlS_EkOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757363952769-40feobre1fhcqf4ovg18s1nu9sd93iuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+export const HOME = "HOME";
+export const USERLOGIN = "USERLOGIN";
+export const OTPDATA = "OTPDATA";
+export const USERSIGNUP = "USERSIGNUP";
+export const SENDOTP = "SENDOTP";
+export const USERPROFILE = "USERPROFILE";
+export const ERRORVISIBLE = "ERRORVISIBLE";
+export const MANUALENTRYDATA = "MANUALENTRYDATA";
+export const UPDATEBATCH = "UPDATEBATCH";
+export const ADDBOTTLE = "ADDBOTTLE";
+export const BOTTLEDETAILS = "BOTTLEDETAILS";
+export const INNERDETAILS = "INNERDETAILS";
+export const CRATEDATA = "CRATEDATA";
+export const ADDININVENTORY = "ADDININVENTORY";
+export const GETININVENTORYDETAIL = "GETININVENTORYDETAIL";
+
+
+
+
